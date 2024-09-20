@@ -1,6 +1,6 @@
 {
-  "name":"TOSH-MD",
-  "description":"Best whatsapp bot developed by Tosh+Ibrahim adams",
+  "name":"MASKSER-MD",
+  "description":"Best whatsapp bot developed by Maskser+Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e03206989102cb861200e.jpg",
   "repository":"https://github.com/Tosh205/SUPER-MD",
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111523038"
+    "value": "255656128735"
   },
     "WARN_COUNT":
   {
