@@ -34,23 +34,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *TOSH MD IMPORTANT INFO* 
+   *MASKSER MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Tosh205/SUPER-MD
+> https://github.com/ENOXKILLER/MASKSER-BASE
 
 *WHATSAPP GROUP*
-> https://chat.whatsapp.com/K5qhnWJMAZE4lZYnU1Bluk
+> https://chat.whatsapp.com/D69XMkUa5dWIkZBtMz5WGq
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Tosh tech*
+│❒⁠⁠⁠⁠ *DEV1* : *Maskser Tech*
 │❒⁠⁠⁠⁠ *DEV2* : *Ibrahim Adams*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     *Tosh Tech*
+     *Maskser Tech*
 
 ❒────────────────────❒`;
 
