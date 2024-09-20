@@ -31,7 +31,7 @@ zokou({ nomCom: "tagall", categorie: 'Group', reaction: "📣" }, async (dest, z
   let membresGroupe = verifGroupe ? await infosGroupe.participants : ""
   var tag = ""; 
   tag += `========================\n  
-        🌟 *Super-Md* 🌟
+        🌟 *Maskser-Md* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Autor : *${nomAuteurMessage}* 👋 
@@ -555,7 +555,7 @@ zokou({ nomCom: "gdesc", categorie: 'Group' }, async (dest, zk, commandeOptions)
   const { arg, repondre, verifAdmin } = commandeOptions;
 
   if (!verifAdmin) {
-    repondre("order reserved for administrators of the group");
+    repondre("MASKSER-MD reserved order for administrators of the group");
     return;
   };
   if (!arg[0]) {
@@ -696,7 +696,7 @@ zokou({nomCom:"hidetag",categorie:'Group',reaction:"🎤"},async(dest,zk,command
     }
 
 } else {
-  repondre('Command reserved for administrators.')
+  repondre('MASKSER-MD Command reserved order for administrators.')
 }
 
 });
