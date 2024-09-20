@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
+      await   repondre("You have not yet saved your alive on MASKSER-MD, to do this;  enter after alive your message and your image or video link in this context: .alive message;Maskser");
          repondre("don't do fake thinks :)")
      }
  } else {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *BELTAH-MD BOT* is alive just like you gee. ')
+repondre(' Wozzah🥴, *MASKSER-MD BOT* is alive just like you gee. ')
 
 }
     });
